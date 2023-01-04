@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm a software developer based in Nairobi, Kenya and I'm open to work opportunities, feel free to connect with me.
+## About me:
+Hi there 👋, I'm a software developer based in Nairobi, Kenya and I'm open to work opportunities, feel free to connect with me.
 
 ## &#x1f4c8; GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
