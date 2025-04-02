@@ -14,7 +14,7 @@ Hi there 👋, I'm a software developer based in Nairobi, Kenya and I'm open to 
 <img align="left" alt="python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="postgresql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="splunk" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Splunk_logo.svg" />
+<img align="left" alt="splunk" width="40px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2022/03/Splunk-Logo.png" />
 
 </br>
 
